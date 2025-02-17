@@ -208,5 +208,5 @@ QuizMaster AI is a standalone web application intended for educational purposes.
 ## 10. Appendices
 - **Appendix A:** Sample API Request/Response Examples
 - **Appendix B:** Deployment Instructions
-- **Appendix C:** API Documentation (Swagger/Postman Collection URL)
+- **Appendix C:** API Documentation (Postman Collection URL)
 
