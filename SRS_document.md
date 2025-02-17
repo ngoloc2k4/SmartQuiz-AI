@@ -148,7 +148,7 @@ QuizMaster AI is a standalone web application intended for educational purposes.
 ### 5.2. API Interface
 - The API will be RESTful and follow standard HTTP methods (GET, POST, PUT, DELETE).
 - API endpoints should return JSON-formatted responses.
-- API documentation will be maintained using tools such as Swagger or Postman Collections.
+- API documentation will be maintained using tool is Postman.
 
 ---
 
