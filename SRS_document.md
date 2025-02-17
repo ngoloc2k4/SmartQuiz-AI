@@ -9,7 +9,7 @@ The purpose of the QuizMaster AI system is to provide an intelligent quiz platfo
 The system consists of three primary components:
 - **Front-End:** A responsive web application built with ReactJS and styled using TailwindCSS. It handles user interactions, displays quizzes, and shows results.
 - **Back-End:** A RESTful API developed with Java Spring Boot (or alternatively Flask, if required) that manages user data, quizzes, questions, and results. The back-end connects to a MongoDB database.
-- **AI Integration:** Uses external AI APIs (e.g., OpenAI or Hugging Face models) to automatically generate quiz questions, evaluate answers, and provide explanations.
+- **AI Integration:** Uses external AI APIs (e.g., OpenAI or DeepSeek models) to automatically generate quiz questions, evaluate answers, and provide explanations.
 
 ### 1.3 Intended Audience
 - **Students:** Use the system for self-assessment and learning.
@@ -50,7 +50,7 @@ QuizMaster AI is a standalone web application intended for educational purposes.
 ### 2.4 Assumptions and Dependencies
 - Users will have a stable Internet connection.
 - The external AI APIs (e.g., OpenAI) will be accessible and reliable.
-- The system will be deployed on cloud platforms (e.g., Heroku for backend, Vercel/Netlify for frontend).
+- The system will be deployed on cloud platforms (e.g., Heroku for backend, Vercel for frontend).
 - Node.js v20 is used for the front-end environment.
 - Java Spring Boot (or Flask) is used for the back-end.
 - MongoDB is the primary database, either hosted on Atlas or locally.
